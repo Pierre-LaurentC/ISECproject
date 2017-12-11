@@ -7,5 +7,7 @@ Nous avons donc à installer le contrôleur de domaine principal et réplica pou
 En fonction des organigrammes, nous aurons aussi à créer et organiser les utilisateurs et groupes dans l’arborescence Active Directory et justifier l’organisation choisie. 
 En outre, un systeme de supervision sera à mettre en place sur les serveurs précédemment installés.
 
+## Cahier des charges :page_facing_up:
+
 :arrow_right:
 :bar_chart:
