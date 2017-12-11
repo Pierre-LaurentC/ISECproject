@@ -44,6 +44,7 @@ Supervision
 #### PBS
 ![Picture](img/PBS_ISEC-1.jpg)
 #### WBS
+![Picture](img/WBS_ISEC-1.jpg)
 #### PERT
 #### GANTT
 
