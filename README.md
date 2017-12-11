@@ -39,7 +39,7 @@ Supervision
 
 
 ### Planification :bar_chart:
-
+![Picture](img/demande_ISEC.jpg)
 #### Demande
 
 #### OBS
