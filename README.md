@@ -12,18 +12,29 @@ En outre, un systeme de supervision sera à mettre en place sur les serveurs pr�
 
 Installation du contrôleur de domaine Windows Server iSEC Groupe
   - Serveur en IP fixe
-
-
+  - DNS fonctionnel en recherche directe
+  - DNS fonctionnel en recherche inverse
+  - Promotion du serveur comme DC dans une nouvelle forêt
+  - DHCP fonctionnel
 
 Installation du contrôleur de domaine Windows Server iSEC Télécom
-
-
+  - Serveur en IP fixe
+  - Installation fonctionnelle (DNS, promotion…)
+  - Réplication fonctionnelle avec le serveur principal
 
 Configuration des droits de partages et d'accès aux ressources, GPO, déploiement d'application sur les postes clients
-
-
+  - Répartition des utilisateurs en OU cohérentes
+  - Démonstration des partages avec les bons droits en fonction des utilisateurs
+  - Démonstration des GPO du CDC
+  - Déploiement d'applications fonctionnel
+  - Approbation entre forêts fonctionnelle et correctement paramétrée (unidirectionnelle groupe->télécom)
 
 Supervision
+  - Supervision processeur/mémoire/disque d'un poste Windows
+  - Justification du choix de la solution
+  - Surveillance de l'état des services des services DNS et DHCP
+
+
 
 
 
