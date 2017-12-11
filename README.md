@@ -39,9 +39,11 @@ Supervision
 
 
 ### Planification :bar_chart:
-![Picture](img/demande_ISEC.jpg)
-#### Demande
 
+#### Demande
+![Picture](img/demande_ISEC.jpg)
+#### Trello
+[a link](https://trello.com/b/T8vvbAFE/isecproject)
 #### OBS
 #### PBS
 ![Picture](img/PBS_ISEC-1.jpg)
