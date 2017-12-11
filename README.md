@@ -38,7 +38,7 @@ Supervision
   - Surveillance de l'état des services des services DNS et DHCP
 
 
-### Diagrammes :bar_chart:
+### Planification :bar_chart:
 
 #### OBS
 #### PBS
@@ -46,7 +46,7 @@ Supervision
 #### PERT
 #### GANTT
 
-
+## Réalisation :pencil2:
 
 
 
