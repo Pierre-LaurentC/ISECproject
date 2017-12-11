@@ -42,7 +42,7 @@ Supervision
 
 #### OBS
 #### PBS
-![Picture](img/PBS_ISEC-1)
+![Picture](img/PBS_ISEC-1.jpg)
 #### WBS
 #### PERT
 #### GANTT
