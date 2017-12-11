@@ -46,7 +46,7 @@ Supervision
 #### WBS
 ![Picture](img/WBS_ISEC-1.jpg)
 #### PERT
-![Picture](img/PERT ISEC-PORJECT.jpg)
+![Picture](img/PERT_ISEC.jpg)
 #### GANTT
 
 ## Réalisation :pencil2:
