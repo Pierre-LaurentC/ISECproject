@@ -43,7 +43,7 @@ Supervision
 #### Demande
 ![Picture](img/demande_ISEC.jpg)
 #### Trello
-[a link](https://trello.com/b/T8vvbAFE/isecproject)
+[Trello](https://trello.com/b/T8vvbAFE/isecproject)
 #### OBS
 #### PBS
 ![Picture](img/PBS_ISEC-1.jpg)
